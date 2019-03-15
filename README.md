@@ -1,6 +1,6 @@
-# socket-chat
+# Socket chat
 
-Websocket application (CHAT ROOM)
+Websocket chat application (CHAT ROOM)
 
 # Tech Stack
 
